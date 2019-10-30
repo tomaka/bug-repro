@@ -1,0 +1,7 @@
+[package]
+name = "test"
+version = "1.0.0"
+edition = "2018"
+
+[dependencies]
+derive2 = { package = "derive", path = "./derive" }
